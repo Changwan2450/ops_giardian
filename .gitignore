@@ -1,0 +1,3 @@
+.env.watchdog
+logs/
+*.log
