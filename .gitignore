@@ -1,3 +1,5 @@
-.env.watchdog
+.env
+state.json
+.DS_Store
 logs/
 *.log
